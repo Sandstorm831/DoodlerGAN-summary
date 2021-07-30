@@ -9,6 +9,6 @@ In this paper DoodlerGAN is proposed, which is a part-based Generative Adversari
 
 - DoodlerGAN basically consists of 2 parts 
 
-    -- Part Selector module 
+    - Part Selector module 
 
--- Part Generator module 
+    - Part Generator module 
