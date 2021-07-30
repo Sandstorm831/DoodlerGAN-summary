@@ -1,3 +1,3 @@
-# DoodlerGAN-summary
-A summary 
-#### CREATIVE SKETCH GENERATION
+# CREATIVE SKETCH GENERATION
+Songwei Ge, Vedanuj Goswami & C. Lawrence Zitnick, Devi Parikh
+
